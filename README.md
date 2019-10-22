@@ -1,2 +1,2 @@
 # geomarketing
-Cities map-to-table &amp; nearest neighboors training
+Cities map-to-table &amp; nearest neighboors 
